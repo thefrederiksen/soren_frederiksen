@@ -38,3 +38,6 @@ Thumbs.db
 
 # Optional: Windows system files
 $RECYCLE.BIN/ 
+
+# Visual Studio workspace
+.vs/ 
